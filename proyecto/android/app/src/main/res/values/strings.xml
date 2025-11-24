@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DiscordDashboard</string>
+    <string name="title_activity_main">DiscordDashboard</string>
+    <string name="package_name">com.discroddashboard.app</string>
+    <string name="custom_url_scheme">com.discroddashboard.app</string>
+</resources>
